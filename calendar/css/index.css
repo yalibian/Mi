@@ -1,0 +1,78 @@
+body {
+    background-color: #ccc;
+    font: 10px sans-serif;
+    shape-rendering: crispEdges;
+}
+
+.day {
+    fill: #fff;
+    stroke: #ccc;
+}
+
+.month {
+    fill: none;
+    stroke: #000;
+    stroke-width: 2px;
+}
+
+
+
+
+.year .color0 {
+    fill: rgb(
+            247,251,255)
+}
+
+.year .color1 {
+    fill: rgb(
+
+            222,235,247
+    )
+}
+
+.year .color2 {
+    fill: rgb(
+            198,219,239
+    )
+}
+.year .color3 {
+    fill: rgb(
+            158,202,225
+    )
+}
+
+.year .color4 {
+    fill: rgb(
+            107,174,214
+    )
+}
+
+.year .color5 {
+    fill: rgb(
+            66,146,198
+    )
+}
+
+.year .color6 {
+    fill: rgb(
+            33,113,181
+    )
+}
+.year .color7 {
+    fill: rgb(
+            8,81,156
+    )
+}
+.year .color8 {
+    fill: rgb(
+            8,48,107
+    )
+}
+.year .color9 {
+    fill: rgb(
+            84,39,143
+    )
+}
+/*.year .color10 {*/
+    /*fill: rgb( 0, 255, 0 )*/
+/*}*/
